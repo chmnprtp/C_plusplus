@@ -1,0 +1,35 @@
+//Find the largest and smallest number in array
+// using <climits> for maxint and minint
+
+#include<iostream>
+#include<climits>
+using namespace std;
+
+int main()
+{
+    int i,n,high=INT_MIN,low=INT_MAX; // or assign 0 to high , any highest to low
+    cout<<"Enter size of array";
+    cin>>n;
+    
+    int arr[n];
+    cout<<"Enter the"<<n<<" number of value "<<endl;
+    for(i=0;i<n; i++)
+    {
+        cin>>arr[i];
+    }
+    
+     for(i=0;i<n; i++)
+    {
+        if(high<=arr[i])
+        {
+            high=arr[i];
+        }
+        if(low>=arr[i])
+        {
+            low=arr[i];
+        }
+    }
+    
+    cout<<"Highest value is"<<high<<endl;
+    cout<<"Lowest value is"<<low<<endl;
+}
