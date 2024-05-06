@@ -1,0 +1,50 @@
+Bjarne Stroustrup
+Extension of C
+At&T's Bell Labs USA
+First OOP language is Simula
+BCPL was fast but too low level
+C language with Simula feature for big software
+C++ name given by Rick Mascitti
+Cfront compiler by Stroustrup to convert c++ to c program
+c++ support gcc in 1987
+C++ is superset of C language
+
+
+C                                                 C++
+C is procedural Oriented Programming.             C++ is Object Oriented as well as procedural Oriented
+                                                  Supports Polymorphism, Inheritance, Encapsulation
+                                                
+No Concept of Exceptional Handling.               C++ Support Exceptional Handling
+No type safe linking                              type safe linking
+Top Down Approach                                 Bottom up Approach
+
+
+procedural Oriented Programming - Programming paradigm Some Procedure(Sequence of instruction)
+                    is require to accomplish a given task
+
+Object Oriented Programming - popular Programming paradigm(Approach to solve problem) based on concept of object
+object - object is something which contain data and code
+data in form of field(or attributes, or properties)
+code in form of procedural (or methods)
+
+Real world entities are object
+class is a description of object
+class is a group of variable and object
+class is a non-primitive datatype
+object is an instace of a class
+
+
+Different Programming paradigm
+-Procedural Programming 
+-Object Oriented
+- imperative
+-declarative
+-parallel
+- many more
+
+Key Principle of OOP
+-Encapsulation
+-Data Hiding
+-Abstraction
+-Inheritance
+-Polymorphism
