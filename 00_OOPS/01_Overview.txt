@@ -1,0 +1,15 @@
+What is Object Oriented Programming?
+- Object Oriented Programming is a Programming paradigm which is about creating object 
+  that contains both data and functions
+
+How Object Oriented Programming is related to real world?
+- https://iamkajas.blogspot.com/2023/12/object-oriented-programming-with-real.html
+
+Why to Study OOPs
+- https://www.c-sharpcorner.com/forums/why-we-need-oops-in-programming-language
+
+Limitation of OOPs
+- https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/CS101-2.1.2-AdvantagesDisadvantagesOfOOP-FINAL.pdf
+
+When we say x language is object oriented  programming language, then what does that we mean by that?
+-
